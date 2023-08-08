@@ -3,7 +3,7 @@
 </p>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=2500&pause=1500&color=ACACAC&center=true&width=1000&height=40&lines=Hello%2C+World;I+am+Mauricio+LSS%2C+I'm+17+years+old.;I'm+a+minimalist+guy.;What+I'm+doing+now%3F;Studying+Machine+Learning;Chat+GPT+won't+get+my+job)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=2500&pause=1500&color=ACACAC&center=true&width=1000&height=40&lines=Hello%2C+World;I+am+Mauricio+LSS%2C+I'm+17+years+old.;I'm+a+minimalist+guy.;What+am+I+doing+now%3F;Studying+Machine+Learning;Chat+GPT+won't+get+my+job)](https://git.io/typing-svg)
 
 #  ⛓ About:
 <div display="flex">
