@@ -1,4 +1,4 @@
 <p align="center">
- Bom dia
+ Github n é Linktree chefe
 </p>
 
