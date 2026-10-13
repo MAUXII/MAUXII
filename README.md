@@ -11,4 +11,4 @@ Construo produtos completos com TypeScript, Next.js e Supabase, do banco ao depl
 
 **Stack:** TypeScript, React, Next.js, Node.js, Python, PostgreSQL, Supabase, Docker
 
-[LinkedIn](https://www.linkedin.com/in/mauricio-silva-309759253/) · [maumau.dev](https://maumau.dev) · male.sil2005@gmail.com
+[LinkedIn](https://www.linkedin.com/in/mauricio-silva-309759253/) · [maumau.dev](https://maumau.dev) · hi@maumau.dev
