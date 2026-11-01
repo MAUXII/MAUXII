@@ -1,6 +1,6 @@
 # Mauricio Silva
 
-Desenvolvedor em São Paulo. Estudo Análise e Desenvolvimento de Sistemas na Fatec SP e construo produtos web e agentes de IA em TypeScript e Python.
+Desenvolvo em TypeScript e Python. Estudo Análise e Desenvolvimento de Sistemas na Fatec SP, em São Paulo.
 
 Procurando estágio em engenharia de software ou QA.
 
