@@ -1,17 +1,23 @@
-### Mauricio Silva
+# Mauricio Silva
 
-Desenvolvedor de software em São Paulo, estudante de Análise e Desenvolvimento de Sistemas na Fatec SP.
-Construo produtos web com TypeScript, Next.js e Supabase, do banco ao deploy, com testes automatizados no que vai para produção.
+Desenvolvedor em São Paulo. Estudo Análise e Desenvolvimento de Sistemas na Fatec SP e construo produtos web e agentes de IA em TypeScript e Python.
 
-**Projetos**
+Procurando estágio em engenharia de software ou QA.
 
-- **[Clakete](https://github.com/MAUXII/clakete)**: rede social de filmes e séries. Next.js, Supabase, TMDB. [clakete.xyz](https://clakete.xyz)
-- **[Constructo](https://constructo.lol)**: páginas de perfil para devs e criadores, com editor visual, integrações com GitHub e Discord e planos pagos.
-- **[Facultas](https://github.com/MAUXII/facultas)**: comunidades para alunos da Fatec, com Row Level Security e testes em Vitest. [facultas.vercel.app](https://facultas.vercel.app)
-- **[fonte-vagas-api](https://github.com/MAUXII/fonte-vagas-api)**: API que agrega vagas da Gupy, do Meu Padrinho e de repositórios do GitHub.
+## Projetos
 
-**Stack:** TypeScript, React, Next.js, Node.js, Python, PostgreSQL, Supabase, Docker, Vitest
+| | |
+|---|---|
+| **[Clakete](https://github.com/MAUXII/clakete)** | Rede social de filmes e séries, no ar desde 2025. Diário, listas, reviews, importação do Letterboxd e app iOS em desenvolvimento. |
+| **[Constructo](https://constructo.lol)** | SaaS de páginas de perfil com editor visual e planos pagos via webhooks. |
+| **[Facultas](https://github.com/MAUXII/facultas)** | Comunidades para alunos da Fatec. Permissões garantidas no banco com Row Level Security e cobertas por testes. |
+| **[Gazette](https://github.com/MAUXII/gazette)** | Agente em Python que escreve um jornal durante a noite e envia como imagem. |
+| **[fonte-vagas-api](https://github.com/MAUXII/fonte-vagas-api)** | API REST que agrega vagas de 3 fontes, com Docker e testes em Vitest. |
 
-Buscando estágio em desenvolvimento ou QA.
+## Stack
+
+TypeScript · Python · React · Next.js · Node.js · PostgreSQL · Docker · Vitest
+
+## Contato
 
 [LinkedIn](https://www.linkedin.com/in/mauricio-silva-309759253/) · [maumau.dev](https://maumau.dev) · hi@maumau.dev
